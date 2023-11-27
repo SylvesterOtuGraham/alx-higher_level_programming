@@ -3,7 +3,7 @@ if [ -z "$PYFILE" ]; then
   echo "PYFILE environment variable is not set."
   exit 1
 fi
+
+# Run the Python script specified by the PYFILE variable
 python3 "$PYFILE"
 
-#!/usr/bin/python3
-print("Best School")
