@@ -1,3 +1,5 @@
 #!/usr/bin/python3
-for letter in range(97, 123):
-    print("{}".format(chr(letter)), end="")    
+char = 97
+while char <= 122:
+     print(chr(char), end='')
+     char = char + 1
