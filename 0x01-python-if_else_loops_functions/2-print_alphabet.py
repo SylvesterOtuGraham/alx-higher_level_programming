@@ -1,5 +1,3 @@
 #!/usr/bin/python3
-char = 97
-while char <= 122:
-     print(chr(char), end='')
-     char = char + 1
+for alpha in range(97, 123):
+    print("{}".format(chr(alpha)), end="")   
