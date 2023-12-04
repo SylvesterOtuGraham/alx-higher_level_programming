@@ -1,0 +1,1 @@
+this repo illustrates the feature the python programmming language to create a file with a .py extension containing variables,functions,classes,methods etc. it aids in reusability of codes and proper code management.
