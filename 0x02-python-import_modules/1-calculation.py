@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 if __name__ == "__main__":
     """functions to execute math operations"""
     from calculator_1 import add,sub,mul,div
